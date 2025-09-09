@@ -21,3 +21,11 @@ Landing page responsive para MANACO, empresa de calzado. Proyecto desarrollado c
 - **Navegación por teclado**: Menú accesible con tecla Escape
 - **Contraste WCAG AAA**: Ratio 21:1 (negro sobre blanco)
 - **Movimiento reducido**: Respeta preferencias del usuario
+
+## SEO
+
+Title: "MANACO - Calzado que impulsa tu paso | Zapatos de calidad en Bolivia" (158 caracteres)
+Description: Meta description de 156 caracteres con keywords relevantes
+Open Graph: og:title, og:description, og:image para redes sociales
+Jerarquía H1/H2: Estructura semántica correcta para motores de búsqueda
+Optimización de imágenes: Placeholders CSS ligeros mejorando Core Web Vitals
