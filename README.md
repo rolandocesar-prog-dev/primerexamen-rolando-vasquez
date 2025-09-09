@@ -29,3 +29,10 @@ Description: Meta description de 156 caracteres con keywords relevantes
 Open Graph: og:title, og:description, og:image para redes sociales
 Jerarquía H1/H2: Estructura semántica correcta para motores de búsqueda
 Optimización de imágenes: Placeholders CSS ligeros mejorando Core Web Vitals
+
+## Mobile First
+
+- **Estilos base**: Optimizados para dispositivos móviles (< 768px)
+- **Media queries progresivas**: `min-width: 768px` para desktop
+- **Breakpoint único**: 768px para transición móvil → desktop
+- **Performance mejorada**: Carga CSS mínimo en móviles, se expande para pantallas mayores
